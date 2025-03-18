@@ -159,16 +159,16 @@ for (let i = 0; i < navigationLinks.length; i++) {
 }
 
 document.getElementById('downloadButton').addEventListener('click', () => {
-  window.location.href = 'https://detectamugre.praktil.co/DevCristobalvc/ApiDevCristobalvc/ApiFilesDevCristobalvc.php';
+  window.location.href = 'https://detectamugre.praktil.co/DevJhonnistobalvc/ApiDevJhonnistobalvc/ApiFilesDevJhonnistobalvc.php';
   // contraseña = xxx
 });
 
 
 
 /* Api Certificates 
-ftp://cristobal%2540praktil.co@ftp.praktil.co/DevCristobalvc/FilesDevCristobalvc/CertificadoLaboralSENA_CRISTOBAL.pdf
+ftp://cristobal%2540praktil.co@ftp.praktil.co/DevJhonnistobalvc/FilesDevJhonnistobalvc/CertificadoLaboralSENA_CRISTOBAL.pdf
 document.getElementById('downloadButton').addEventListener('click', () => {
-  const url = 'https://detectamugre.praktil.co/DevCristobalvc/ApiDevCristobalvc/FilesDevCristobalvc/CertificadoLaboralSENA_CRISTOBAL.pdf';
+  const url = 'https://detectamugre.praktil.co/DevJhonnistobalvc/ApiDevJhonnistobalvc/FilesDevJhonnistobalvc/CertificadoLaboralSENA_CRISTOBAL.pdf';
   fetch(url, {
       method: 'GET',
       headers: {}
